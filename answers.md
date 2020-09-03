@@ -132,3 +132,31 @@ nothing to commit, working tree clean
 
 Answer 10:
 
+No, the changes were not reflected in the local copy.
+
+Answer 11:
+
+I got the following error message:
+
+To https://github.com/lh664518/git-lab.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/lh664518/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12:
+
+Yes, the changes are now reflected in the local copy.
+
+Answer 13:
+
+  Directory: C:\Users\Logan\documents\cs2400\git-lab-2
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         9/3/2020   4:11 PM            302 .gitignore
+-a----         9/3/2020   4:11 PM             11 README.md
